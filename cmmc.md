@@ -22,9 +22,6 @@ Given that a contract's value is purely based on perception, each entity can per
 This can lead to a difference in the percieved value and can spark a desire to exchange contracts.
 
 If entityA values contractA more than contractB and entityB values contractB more than contractA, entityB will _desire_ to exchange contractA for contractB.
-exchange of contracts is called a trade. A trade is a contract in itself- a contract to exchange specific contracts.
-
-Note that this desire may or not be conscious.
 
 # Markets
 A market is a _network_ for exchanging specific contracts.
@@ -36,7 +33,9 @@ Like any network, a market needs 3 essential conditions to be functional, regard
 - The _desire_ of these entities to exchange the specific contracts
 - A _protocol_ for this exchange
 
-Failing any of these conditions, the network is dysfunctional.
+Failing any of these conditions, the network is dysfunctional.  
+The exchange of contracts in a market is called a trade. A trade is a contract in itself- a contract to exchange specific contracts.
+
 
 
 ## Biological, Social and Economic contracts/markets
