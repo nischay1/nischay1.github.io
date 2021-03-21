@@ -8,15 +8,19 @@ tags:
 ---
 # What is a Contract?
 Contracts are one of the fundamental building blocks of civilization.  
-A contract is a instruction for an entity to perform a specific sequence of actions.  
+A contract is a instruction for an entity to execute a specific sequence of actions in a specific time range.  
 
-Contracts range from something as simple as a request to "give me your banana" to something as complex as a stock option.
+Contracts range from something as simple as a request to "give me a banana (right now)" to something as complex as a stock option.
 
 # What is a Market?
-A market is formed when contracts are exchanged.
-A market is the interaction of entities exchanging contracts. 
-The key here is the interaction of (more than one) entities. 
-Without interaction, there is no market. With a single entity, there is no market.
+A market is a network for exchanging specific contracts.
+
+Like any other network, a market needs 3 essential conditins to be functional:
+- The presence of (more than one) entities
+- Their desire to exchange the specific contracts
+- A Protocol for the exchange
+
+Failing any of these conditions, there is no market for a contract.
 
 
 # What is Economic Value?   
@@ -24,8 +28,8 @@ Theoretically, economic value is the measure of potential benifit that an entity
 
 Thus different entites will see different economic value in the same contract.
 
-This difference in percieved economic value creates a market. 
-If entityA values contractA more than contractB and entityB values contractB more than contractA, contractB with be exchanged with contractA and a market is created.
+This difference in percieved economic value creates a desire to exchange the contracts. 
+If entityA values contractA more than contractB and entityB values contractB more than contractA, entityB will desire to exchange contractA for contractB.
 
 # What is Money?
 Money is a medium of storing an exchanging economic value in markets.
