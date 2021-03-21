@@ -8,7 +8,7 @@ tags:
 ---
 # Contracts
 A _contract_ is an instruction for an entity to execute a specific sequence of actions in a defined time range.  
-Most (but not all) contracts are either an instruction to provide a particular object or service within a defined time range.
+Most (but not all) contracts are either an instruction to deliver a particular object or experience within a defined time range.
 
 Thus a contract will have the following properties:
 - The action to perform
