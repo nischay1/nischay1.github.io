@@ -1,10 +1,10 @@
 ---
 title: "Contracts, Markets, Money and Currency"
 categories:
-	- first-principles
+ - first-principles
 tags:
-	- money
-	- economics
+ - money
+ - economics
 ---
 #What is a Contract?
 Contracts are one of the fundamental building blocks of civilization.
